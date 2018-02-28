@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
+.custom-title {
+  font-family: 'Lobster', cursive;
+}
+
+.custom-infos {
+  font-family: 'Lobster', cursive;
+  margin-left: 1em;
+  margin-top: 0.5em;
+}

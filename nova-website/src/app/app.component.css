@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
+html, body{
+  height: 100%;
+  font-family: Arial, Helvetica, sans-serif
+}
+
+.custom-btn {
+  background-color: black;
+  color: yellow;
+  font-family: 'Lobster', cursive;
+}
+
+.custom-btn:hover {
+  background-color: rgb(41, 40, 40);
+  color: yellow;
+  font-family: 'Lobster', cursive;
+}
